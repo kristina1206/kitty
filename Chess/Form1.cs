@@ -38,7 +38,7 @@ namespace Chess
             InitializeComponent();
 
             chessSprites = Resource1.chess;
-            
+            ///f
             
 
             Init();
